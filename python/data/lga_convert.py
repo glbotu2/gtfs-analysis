@@ -1,6 +1,6 @@
 import ogr,csv,sys
 
-shpfile=r'C:\Temp\test.shp' #sys.argv[1]
+shpfile=r'../../' #sys.argv[1]
 csvfile=r'C:\Temp\test.csv' #sys.argv[2]
 
 #Open files
