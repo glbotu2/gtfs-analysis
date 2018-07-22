@@ -1,7 +1,7 @@
 import ogr,csv,sys
 
-shpfile=r'../../' #sys.argv[1]
-csvfile=r'C:\Temp\test.csv' #sys.argv[2]
+shpfile=r'../../1270055003_lga_2017_aust_shp/LGA_2017_AUST.shp' #sys.argv[1]
+csvfile=r'../../australia.csv' #sys.argv[2]
 
 #Open files
 csvfile=open(csvfile,'wb')
